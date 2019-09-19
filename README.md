@@ -1,4 +1,4 @@
-# Stevens_cs_146
+# CS_146
 echo "# Stevens_cs_146" >> README.md
 git init
 git add README.md
